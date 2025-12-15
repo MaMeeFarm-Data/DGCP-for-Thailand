@@ -243,5 +243,111 @@ DGCP™ is a verifiable, immutable architecture protected by international copyr
 
 © 2025 MaMeeFarm™ / DGCP™  
 Licensed under **MMFARM-POL-2025**
+---
+# DGCP-for-Thailand 🇹🇭  
+## Data Governance & Continuous Proof — Research Repository
 
+DGCP-for-Thailand is an open, independent research project
+examining Thailand’s data governance landscape
+through the lens of **Real-World Data (RWD)** and **observability**.
 
+This repository documents structural analysis, comparative insights,
+and system-level reasoning to support transparent discussion
+on how data is generated, governed, and understood in real-world contexts.
+
+---
+
+## Project Status
+
+**Version:** v0.1  
+**Status:** Research Foundation Complete  
+**Last Updated:** December 2025
+
+This version establishes the full analytical structure,
+methodology, and synthesis framework.
+Future updates will be additive and traceable.
+
+---
+
+## Research Scope
+
+The project focuses on:
+
+- National data governance structures
+- Policy-to-ground gaps in data visibility
+- Real-world data (RWD) versus formal reporting systems
+- Comparative regional and global context
+- Non-institutional data generation and observability
+
+The repository does **not** propose policy, regulation, or implementation plans.
+
+---
+
+## Repository Structure
+
+- `00-FRAMEWORK`  
+  Core concepts and analytical framing
+
+- `01-THAI-CONTEXT-ANALYSIS`  
+  Thailand-specific structural context
+
+- `02-POLICY-GAP-ANALYSIS`  
+  Institutional and operational gaps
+
+- `03-DGCP-DESIGN-FOR-TH`  
+  Conceptual design logic (non-operational)
+
+- `03-SYNTHESIS`  
+  Regional and global synthesis connecting patterns back to Thailand
+
+- `04-USE-CASES`  
+  Illustrative, non-prescriptive scenarios
+
+- `06-RISK-AND-ETHICS`  
+  Risk boundaries, ethical considerations
+
+- `analysis`  
+  Independent analytical notes and essays
+
+- `research`  
+  Supporting research artifacts
+
+---
+
+## Methodology
+
+The project applies:
+
+- Qualitative, systems-oriented analysis
+- Comparative structural reasoning
+- Non-normative, non-prescriptive framing
+- Additive versioning for traceability
+
+For details, see `METHODOLOGY.md`.
+
+---
+
+## Research Principles
+
+- No policy advocacy  
+- No regulatory instruction  
+- No enforcement guidance  
+- No institutional representation  
+
+This work is published for **analysis, learning, and dialogue** only.
+
+---
+
+## License
+
+DGCP-for-Thailand is released under:
+
+**DGCP | MMFARM-POL-2025**  
+This work is licensed under the DGCP (Data Governance & Continuous Proof) framework.  
+All content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.  
+Redistribution, citation, or derivative use must preserve attribution and license reference.
+
+---
+
+© 2025 MaMeeFarm™ / DGCP™
+---
